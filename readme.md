@@ -72,6 +72,9 @@ The entire fine transactions can be carried out at this level. Data Companies ca
 1. Fights Corruption: As each lower level is to benefit further if the upper level does it's work properly, they are pressurized to work and not get corrupted. Moreover, due to the blockchain architecture the polluting M/Ps will find it harder and almost impossible to bribe their way out.
 2. Gives Incentives to all the parties: All the parties are to benefit by joining the EvnCoin Blockchain and thus are more likely to join.
 
+## PowerPoint Presentation 
+[PPT](https://aitpuneedu-my.sharepoint.com/personal/anirudhmurali_15090_aitpune_edu_in/_layouts/15/guestaccess.aspx?docid=04ed81d2a73af4e62942e03ecceaac3cb&authkey=AVKUTeL11wU7kb8qTtPJ4as&e=88f9fa33fafa47ce8a5e448c44a546b7)
+
 # Installation
 Node.js is required to run this project. If not already installed, please install it. After that -
 
