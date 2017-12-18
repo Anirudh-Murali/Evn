@@ -62,6 +62,7 @@ Components
    <space> A screenshot of the dashboard is given below.
    ![alt text](https://github.com/Anirudh-Murali/Evn/blob/master/Screenshot%20from%202017-12-18%2009-39-22.png?raw=true)
 2. Smart Contract II to govern the transactions
+   ![alt text](https://raw.githubusercontent.com/Anirudh-Murali/Evn/master/Level_2.png)
 
 ### Level III: Between Government and Defaulters
 The entire fine transactions can be carried out at this level. Data Companies can observer these blocks to ensure that the polluting M/P has been fined. This helps combat corruption at the Government.
