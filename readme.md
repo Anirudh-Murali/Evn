@@ -1,7 +1,6 @@
 # EvnCoin 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<space><space><space><space> ![alt text](https://media.giphy.com/media/l4FGC3dPGy2VJJsIw/giphy.gif "Logo Title Text 1")
-
 ### Battling Pollution || Bringing Profits
 
 
@@ -48,6 +47,7 @@ Now let us observe the transactions occurring and the smart contracts governing 
 <space> Components:
  1. Dashboard for the common citizens to connect to the blockchain, Send data to the data companies and gain rewards for the same.
  A screenshot of the dashboard is given below.
+![alt text](https://raw.githubusercontent.com/Anirudh-Murali/Evn/master/Screenshot%20from%202017-12-18%2009-34-10.png)
 
 2. Smart Contract I
  The Smart contract governing this transaction has the following functions
