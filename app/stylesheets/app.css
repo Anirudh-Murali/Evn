@@ -1,5 +1,5 @@
 .party       {
-  margin-left: 25%;
+  /*margin-left: 25%;*/
   margin-right: 25%;
   margin-top: -2%;
   margin-bottom: 20%;
@@ -10,7 +10,9 @@
   display: inline-block;
   width: 100px;
 }
-
+#rock{
+  /*padding-left: 300px;*/
+}
 .party input {
   width: 500px;
   padding: 5px;
@@ -40,6 +42,10 @@
   font-size: 32px;
 }
 
+.party a {
+  color: #AAA;
+  font-size: 24px;
+}
 .party h3 {
   font-weight: normal;
   color: #AAA;
