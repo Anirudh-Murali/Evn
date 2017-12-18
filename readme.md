@@ -60,7 +60,7 @@ In the second level, data companies can analyse the data and help pinpoint defau
 Components
 1. Dashboard/ Portal to carry out the transactions. 
    <space> A screenshot of the dashboard is given below.
-   
+   ![alt text](https://github.com/Anirudh-Murali/Evn/blob/master/Screenshot%20from%202017-12-18%2009-39-22.png?raw=true)
 2. Smart Contract II to govern the transactions
 
 ### Level III: Between Government and Defaulters
