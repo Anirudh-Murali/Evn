@@ -66,6 +66,7 @@ Components
 
 ### Level III: Between Government and Defaulters
 The entire fine transactions can be carried out at this level. Data Companies can observer these blocks to ensure that the polluting M/P has been fined. This helps combat corruption at the Government.
+![alt text](https://raw.githubusercontent.com/Anirudh-Murali/Evn/master/Level_3.png)
 
 ## Advantages of the EvnCoin System
 1. Fights Corruption: As each lower level is to benefit further if the upper level does it's work properly, they are pressurized to work and not get corrupted. Moreover, due to the blockchain architecture the polluting M/Ps will find it harder and almost impossible to bribe their way out.
