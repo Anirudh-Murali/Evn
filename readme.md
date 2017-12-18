@@ -103,6 +103,10 @@ You can close this terminal .
 Simply click on the link provided by it.
 
 Now you can interact with the dashboard and simulated the Level I Transaction.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1wFEWouW2r8/0.jpg)](https://www.youtube.com/watch?v=1wFEWouW2r8)
+
+## _PLEASE NOTE THAT STEP THREE HASN'T BEEN DEMONSTRATED IN THE VIDEO. HOWEVER IN CASE OF A WEB-SERVER ERROR ON EXECUTING THE `npn run dev` COMMAND, JUST PERFORM THE THIRD STEP AND YOU'LL BE READY TO GO
+
 Let us know if you face any issues
 Enjoy :)
 
