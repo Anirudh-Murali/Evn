@@ -71,6 +71,8 @@ The entire fine transactions can be carried out at this level. Data Companies ca
 2. Gives Incentives to all the parties: All the parties are to benefit by joining the EvnCoin Blockchain and thus are more likely to join.
 
 # Installation
+Node.js is required to run this project. If not already installed, please install it. After that -
+
 1.Install Truffle globally.
 `npm install -g truffle`
 
@@ -85,6 +87,23 @@ For Reference:For reference :https://github.com/trufflesuite/ganache-cli - autom
 
 # Running the project
 
+1. Clone the repository to a convenient location.
+2. Open a termial and start the  ganache-cli by typing:
+ ` ganache-cli`
+ Keep this terminal running
+3. Navigate to the following location in the project files : `Evn-master/node_modules/.bin`, open a terminal and run the following command,
+ `chmod 755 webpack-dev-server`
+You can close this terminal .
+4. Go back to the parent project directory and run the following commands
+ `truffle compile`
+ `truffle migrate`
+ This shall compile all of our smart contracts and deploy it on to the gananche ethereum blockchain that we had started in step 1.
+5. Now connect the front end to the blockchain by typing the following command
+`npm run dev`
+Simply click on the link provided by it.
 
+Now you can interact with the dashboard and simulated the Level I Transaction.
+Let us know if you face any issues
+Enjoy :)
 
 
