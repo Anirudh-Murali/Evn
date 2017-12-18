@@ -52,7 +52,7 @@ Now let us observe the transactions occurring and the smart contracts governing 
 2. Smart Contract I
  The Smart contract governing this transaction has the following functions
   *Ensure the consistency of the data: The smart contract will ensure that no fraudulent transactions are occurring and that no user is sending randomly generated data by correlating the data being received by the neighbouring users. If found guilty, the user can be fined.
-  
+  ![alt text](https://raw.githubusercontent.com/Anirudh-Murali/Evn/master/Level_1.png)
   *Ensure each user is awarded for the amount of data he/she is selling (or basically for the number of sensors installed) 
  
  ### Level II: Between Data Companies and the Governments or other Companies seeking the data for commercial purposes.
