@@ -1,0 +1,65 @@
+.party       {
+  /*margin-left: 25%;*/
+  margin-right: 25%;
+  margin-top: -2%;
+  margin-bottom: 20%;
+  font-family: "Open Sans", sans-serif;
+}
+#filler{  margin-top: -2%;}
+.party label {
+  display: inline-block;
+  width: 100px;
+}
+#rock{
+  /*padding-left: 300px;*/
+}
+.party input {
+  width: 500px;
+  padding: 5px;
+  font-size: 16px;
+}
+.timer {
+  font-size: 2.5em;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  background: #ccc;
+}
+.party button {
+  font-size: 16px;
+  padding: 5px;
+}
+
+.party h1, h2 {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.party h2 {
+  color: #AAA;
+  font-size: 32px;
+}
+
+.party a {
+  color: #AAA;
+  font-size: 24px;
+}
+.party h3 {
+  font-weight: normal;
+  color: #AAA;
+  font-size: 24px;
+}
+
+.party .black {
+  color: white;
+}
+
+.party #balance {
+  color: #FFFFFF;
+}
+
+.party .hint {
+  color: #666;
+}
