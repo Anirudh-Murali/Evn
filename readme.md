@@ -5,7 +5,7 @@
 
 
 ## Description
-This Ethereum based blockchain project for EvnCoin was made with the motivation of reducing the amount of pollution in the air we breath, and combat pollution in a general sense. Today major metropolitan cities like Delhi face a situation where the air is extremely polluted, way beyond the "safe-levels" sanctioned by the UN.Many of the polluting plants and factories largely responsible for the degrading quality of air in their vicinity simply escape punishment due to the current non transparent system.
+This Ethereum based blockchain project for EvnCoin was made with the motivation of reducing the amount of pollution in the air we breath, and combat pollution in a general sense. Today major metropolitan cities like Delhi face a situation where the air is extremely polluted, way beyond the "safe-levels" sanctioned by the UN. Many of the polluting plants and factories largely responsible for the degrading quality of air in their vicinity simply escape punishment due to the current non transparent system.
 
 # The Concept
 
